@@ -24,5 +24,5 @@
 ##
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=awangelo&theme=blueberry&card_height=185" alt="GitHub Streak" />
+![awangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awangelo&theme=default&show_icons=true&hide_border=true&layout=compact)
 </p>
