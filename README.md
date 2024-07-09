@@ -19,8 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<p></p>
+<a href="https://github.com/awangelo">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangelo&theme=default&show_icons=true&hide_border=true&layout=compact" />
+</a>
 </div>
-
-##
-
-![awangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awangelo&theme=default&show_icons=true&hide_border=true&layout=compact)
