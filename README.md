@@ -23,6 +23,4 @@
 
 ##
 
-<p align="center">
 ![awangelo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awangelo&theme=default&show_icons=true&hide_border=true&layout=compact)
-</p>
