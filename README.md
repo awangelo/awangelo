@@ -1,5 +1,4 @@
-
-<h1 align="center">❄️ I code with:</h1>
+<h2 align="center">Simplicity is the ultimate sophistication</h1>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -20,7 +19,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 <p></p>
-<a href="https://github.com/awangelo">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awangelo&theme=default&show_icons=true&hide_border=true&layout=compact" />
-</a>
 </div>
